@@ -1,3 +1,3 @@
 # Chapter 2
 
-It was a typical day at the office, and Lily was working on a new project. She had been coding for hours, and everything was going smoothly until she tried to merge her code with the rest of the team's work. To her horror, she discovered a merge conflict – a situation where two or more developers have made changes to the same part of the code, and the system doesn't know which version to keep.
+It was a typical day at the office, and Lily was working on a new project. She had been coding for hours, and everything was going smoothly until she tried to merge her code with the rest of the team's work. To her horror, she discovered a merge conflict – a situation where two or more developers have made changes to the same part of the code, and the system doesn't know which version to keep. A shiver rn down Lilly's spine.
